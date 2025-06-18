@@ -172,7 +172,7 @@ const HeartFireworks: React.FC = () => {
         }}
       >
         <h1 className="text-4xl sm:text-3xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-pink-200 via-white to-rose-300 drop-shadow-lg">
-          я тебе<br />кохасяю
+          я це ти<br />а ти це я
         </h1>
       </div>
     </div>
